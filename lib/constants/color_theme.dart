@@ -1,0 +1,1 @@
+//Padronizar e centralizar o uso de cores no main
